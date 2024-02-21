@@ -1,2 +1,6 @@
-# ParameterIdentification_and_FOMe
-FOM参数辨识及其改进模型
+# FOM参数辨识及其改进模型
+ParameterIdentification_and_FOMe
+
+为降低传统电化学模型计算复杂度，使电化学模型能够应用于实时BMS中。本文根据P2D模型推导出基于物理机理的分数阶模型，并辨识其模型参数。
+
+为进一步提高基于物理机理的分数阶模型的精度，本章提出考虑液相极化的分数阶模型，并重新辨识分数阶Padé近似函数的系数。
